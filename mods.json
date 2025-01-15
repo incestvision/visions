@@ -1,0 +1,102 @@
+{
+    "The Coffin of Nina":{
+        "tomb":false,
+        "released":false,
+        "ai":false,
+        "creator":["Misana1598", "https://www.youtube.com/@Misana-fr2rr"],
+        "desc":"This is my hell... this is my coffin. My name... is Nicole.",
+        "genre":"Total Conversion",
+        "ext-media":{
+            "Trailer":"https://youtu.be/McUYvDJT0Lc"
+        },
+        "media":{
+            "previews":[
+                "img/the-coffin-of-nina-preview01.jpg"
+            ]
+        },
+        "dl":null,
+        "src":null
+    },
+
+    "The Coffin of Candy Scabs":{
+        "tomb":false,
+        "released":true,
+        "ai":true,
+        "creator":"Day Shift Studio",
+        "desc":"",
+        "genre":"Total Conversion",
+        "ext-media":{
+
+        },
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":{
+            "Nexus Mods":"https://www.nexusmods.com/thecoffinofandyandleyley/mods/13",
+            "GameBanana":"https://gamebanana.com/mods/553302",
+            "Google Drive":"https://drive.google.com/file/d/1aTxXn-LqqilSVSGJx8-ZUSnaoeboUOr3/edit?pli=1"
+        },
+        "src":"https://github.com/Mr-Archive/The-Coffin-of-Candy-Scabs"
+    },
+
+    "The Coffin of No-good Noelle":{
+        "tomb":false,
+        "released":false,
+        "ai":false,
+        "creator":"Day Shift Studio",
+        "desc":"",
+        "genre":"Total Conversion",
+        "ext-media":{
+
+        },
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":null,
+        "src":"https://github.com/Mr-Archive/The-Coffin-of-No-Good-Noelle"
+    },
+
+    "The Coffin of Andy and Lili":{
+        "tomb":true,
+        "released":true,
+        "ai":false,
+        "creator":["Cali", "https://youtube.com/@cali_fr"],
+        "desc":"It's a coffin for three now.",
+        "genre":"Total Conversion",
+        "ext-media":{
+            "Trailer":"https://youtu.be/_XE_AUpgp94"
+        },
+        "media":{
+
+        },
+        "dl":{
+            "Catbox":"https://files.catbox.moe/y07z4z.rar"
+        },
+        "src":null
+    },
+
+    "The Coffin of Andrew and Renee":{
+        "tomb":false,
+        "released":true,
+        "ai":false,
+        "creator":["Graveyard Shift", "https://youtube.com/@GraveyardShift-w7"],
+        "desc":"",
+        "genre":"Total Conversion",
+        "ext-media":{
+            "Trailer":"https://youtu.be/Vhm_FQbQK5A",
+            "Installation Tutorial":"https://youtu.be/uUm36WY0YWk"
+        },
+        "media":{
+
+        },
+        "dl":{
+            "DEG Mods":"https://degmods.com/mod/naddr1qvzqqqrkcgpzph2jv2ejvdk27hn36dt57j6f69f5h0zccve3xceujq5z9jk8ym8wqp4nxvp5xqer5eryx5ervvnzxvervvekvdskvdt9xuckgve4xu6xvdrzxsukgvf4xv6xycnrx5uxxvenxvcnxd3nxd3njvpj8qerycmpvvmnydnrv4jn5wrpv5mrvwpsxgknxwp4xqkngetpxqknjd35xcknsv3cv9jnxvtp8ycxyegq5ndhc",
+            "Nexus Mods":"https://degmods.com/mod/naddr1qvzqqqrkcgpzph2jv2ejvdk27hn36dt57j6f69f5h0zccve3xceujq5z9jk8ym8wqp4nxvp5xqer5eryx5ervvnzxvervvekvdskvdt9xuckgve4xu6xvdrzxsukgvf4xv6xycnrx5uxxvenxvcnxd3nxd3njvpj8qerycmpvvmnydnrv4jn5wrpv5mrvwpsxgknxwp4xqkngetpxqknjd35xcknsv3cv9jnxvtp8ycxyegq5ndhc"
+        },
+        "src":"https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee"
+    }
+}
