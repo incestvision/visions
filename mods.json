@@ -55,7 +55,7 @@
         },
         "media":{
             "previews":[
-
+                "img/the-coffin-of-no-good-noelle-preview01.png"
             ]
         },
         "dl":null,
@@ -73,7 +73,9 @@
             "Trailer":"https://youtu.be/_XE_AUpgp94"
         },
         "media":{
-
+            "previews":[
+                "img/the-coffin-of-andy-and-lili-preview01.jpg"
+            ]
         },
         "dl":{
             "Catbox":"https://files.catbox.moe/y07z4z.rar"
