@@ -3,7 +3,8 @@
         "tomb":false,
         "released":false,
         "ai":false,
-        "creator":["Misana1598", "https://www.youtube.com/@Misana-fr2rr"],
+        "creator":["Misana1598"],
+        "creator-link":["https://www.youtube.com/@Misana-fr2rr"],
         "desc":"This is my hell... this is my coffin. My name... is Nicole.",
         "genre":"Total Conversion",
         "ext-media":{
@@ -22,7 +23,7 @@
         "tomb":false,
         "released":true,
         "ai":true,
-        "creator":"Day Shift Studio",
+        "creator":["Day Shift Studio"],
         "desc":"",
         "genre":"Total Conversion",
         "ext-media":{
@@ -47,7 +48,7 @@
         "tomb":false,
         "released":false,
         "ai":false,
-        "creator":"Day Shift Studio",
+        "creator":["Day Shift Studio"],
         "desc":"",
         "genre":"Total Conversion",
         "ext-media":{
@@ -66,7 +67,8 @@
         "tomb":true,
         "released":true,
         "ai":false,
-        "creator":["Cali", "https://youtube.com/@cali_fr"],
+        "creator":["Cali"],
+        "creator-link":["https://youtube.com/@cali_fr"],
         "desc":"It's a coffin for three now.",
         "genre":"Total Conversion",
         "ext-media":{
@@ -87,7 +89,8 @@
         "tomb":false,
         "released":true,
         "ai":false,
-        "creator":["Graveyard Shift", "https://youtube.com/@GraveyardShift-w7"],
+        "creator":["Graveyard Shift"],
+        "creator-link":["https://youtube.com/@GraveyardShift-w7"],
         "desc":"",
         "genre":"Total Conversion",
         "ext-media":{
