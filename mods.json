@@ -1,5 +1,6 @@
 {
     "The Coffin of Nina":{
+        "id":["the-coffin-of-nina", "nina"],
         "tomb":false,
         "released":false,
         "ai":false,
@@ -20,6 +21,7 @@
     },
 
     "The Coffin of Candy Scabs":{
+        "id":["the-coffin-of-candy-scabs", "candy-scabs"],
         "tomb":false,
         "released":true,
         "ai":true,
@@ -45,6 +47,7 @@
     },
 
     "The Coffin of No-good Noelle":{
+        "id":["the-coffin-of-no-good-noelle", "noelle"],
         "tomb":false,
         "released":false,
         "ai":false,
@@ -64,6 +67,7 @@
     },
 
     "The Coffin of Andy and Lili":{
+        "id":["the-coffin-of-andy-and-lili", "cali"],
         "tomb":true,
         "released":true,
         "ai":false,
@@ -86,6 +90,7 @@
     },
 
     "The Coffin of Andrew and Renee":{
+        "id":["the-coffin-of-andrew-and-renee", "renee"],
         "tomb":false,
         "released":true,
         "ai":false,
