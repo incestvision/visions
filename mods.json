@@ -13,7 +13,7 @@
         },
         "media":{
             "previews":[
-                "img/the-coffin-of-nina-preview01.jpg"
+                "database/img/the-coffin-of-nina-preview01.jpg"
             ]
         },
         "dl":null,
@@ -28,14 +28,12 @@
         "creator":["Day Shift Studio"],
         "desc":"TCoAaL and Candy Scabs crossover.",
         "genre":"Total Conversion",
-        "ext-media":{
-
-        },
+        "ext-media":null,
         "media":{
             "previews":[
-                "img/the-coffin-of-candy-scabs-preview01.png",
-                "img/the-coffin-of-candy-scabs-preview02.png",
-                "img/the-coffin-of-candy-scabs-preview03.png"
+                "database/img/the-coffin-of-candy-scabs-preview01.png",
+                "database/img/the-coffin-of-candy-scabs-preview02.png",
+                "database/img/the-coffin-of-candy-scabs-preview03.png"
             ]
         },
         "dl":{
@@ -54,12 +52,10 @@
         "creator":["Day Shift Studio"],
         "desc":"TCoAaL and No-good Noelle crossover.",
         "genre":"Total Conversion",
-        "ext-media":{
-
-        },
+        "ext-media":null,
         "media":{
             "previews":[
-                "img/the-coffin-of-no-good-noelle-preview01.png"
+                "database/img/the-coffin-of-no-good-noelle-preview01.png"
             ]
         },
         "dl":null,
@@ -80,7 +76,7 @@
         },
         "media":{
             "previews":[
-                "img/the-coffin-of-andy-and-lili-preview01.jpg"
+                "database/img/the-coffin-of-andy-and-lili-preview01.jpg"
             ]
         },
         "dl":{
@@ -104,7 +100,7 @@
         },
         "media":{
             "previews":[
-                "img/the-coffin-of-andrew-and-renee-preview01.jpg"
+                "database/img/the-coffin-of-andrew-and-renee-preview01.jpg"
             ]
         },
         "dl":{
@@ -112,5 +108,25 @@
             "Nexus Mods":"https://degmods.com/mod/naddr1qvzqqqrkcgpzph2jv2ejvdk27hn36dt57j6f69f5h0zccve3xceujq5z9jk8ym8wqp4nxvp5xqer5eryx5ervvnzxvervvekvdskvdt9xuckgve4xu6xvdrzxsukgvf4xv6xycnrx5uxxvenxvcnxd3nxd3njvpj8qerycmpvvmnydnrv4jn5wrpv5mrvwpsxgknxwp4xqkngetpxqknjd35xcknsv3cv9jnxvtp8ycxyegq5ndhc"
         },
         "src":"https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee"
+    },
+
+    "The Coffin of Richard and Renee":{
+        "id":["the-coffin-of-richard-and-renee", "richard"],
+        "tomb":false,
+        "released":false,
+        "ai":null,
+        "creator":null,
+        "creator-link":null,
+        "desc":null,
+        "genre":"Total Conversion",
+        "ext-media":null,
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-richard-and-renee-preview01.jpg",
+                "database/img/the-coffin-of-richard-and-renee-preview02.jpg"
+            ]
+        },
+        "dl":null,
+        "src":null
     }
 }
