@@ -128,5 +128,26 @@
         },
         "dl":null,
         "src":null
+    },
+
+    "Mimi's Coffin":{
+        "id":["mimis-coffin", "mimi"],
+        "tomb":false,
+        "released":false,
+        "ai":null,
+        "creator":["StainedFarewell"],
+        "creator-link":["https://x.com/StainedFarewell"],
+        "desc":"Or maybe I wasn't sexy enough...",
+        "genre":"Total Conversion",
+        "ext-media":{
+            "In-Game Progress":"https://youtu.be/vDyICz0rdT4"
+        },
+        "media":{
+            "previews":[
+                "database/img/mimis-coffin-preview01.gif"
+            ]
+        },
+        "dl":null,
+        "src":null
     }
 }
