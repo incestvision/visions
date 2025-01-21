@@ -149,5 +149,39 @@
         },
         "dl":null,
         "src":null
+    },
+
+    "Super Beanshley 64 Demo":{
+        "id":["super-beanshley-64-demo", "sb64demo"],
+        "tomb":false,
+        "released":true,
+        "ai":false,
+        "creator":["Day Shift Studio"],
+        "creator-link":null,
+        "desc":"Save Beandrew from the evil demon.",
+        "genre":"ROM Hack",
+        "ext-media":null,
+        "media":{
+            "previews":[
+                "database/img/super-beanshley-64-demo-preview01.jpg"
+            ]
+        },
+        "dl":"https://gamebanana.com/mods/565869",
+        "src":null
+    },
+
+    "Andy and Leyley in Sonic 2":{
+        "id":["andy-and-leyley-in-sonic-2", "sonic2"],
+        "tomb":false,
+        "released":false,
+        "ai":null,
+        "creator":["peachy"],
+        "creator-link":["https://linktr.ee/estrohoe"],
+        "desc":null,
+        "genre":"ROM Hack",
+        "ext-media":null,
+        "media":null,
+        "dl":null,
+        "src":"https://github.com/visions-database/andy-and-leyley-in-sonic-2"
     }
 }
