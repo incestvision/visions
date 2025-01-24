@@ -1,5 +1,7 @@
 # Visions
 
+[Codeberg](https://codeberg.org/peachy/visions) / [Github](https://github.com/visions-database/visions)
+
 Modding platform for The Coffin of <span style="color:#86d37a;">Andy</span> and <span style="color:#ec83c3;">Leyley</span>.
 
 Visions is split into 2 parts:
