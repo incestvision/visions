@@ -36,11 +36,7 @@
                 "database/img/the-coffin-of-candy-scabs-preview03.png"
             ]
         },
-        "dl":{
-            "Nexus Mods":"https://www.nexusmods.com/thecoffinofandyandleyley/mods/13",
-            "GameBanana":"https://gamebanana.com/mods/553302",
-            "Google Drive":"https://drive.google.com/file/d/1aTxXn-LqqilSVSGJx8-ZUSnaoeboUOr3/edit?pli=1"
-        },
+        "dl":["https://gamebanana.com/dl/1318250"],
         "src":"https://github.com/Mr-Archive/The-Coffin-of-Candy-Scabs"
     },
 
@@ -79,9 +75,7 @@
                 "database/img/the-coffin-of-andy-and-lili-preview01.jpg"
             ]
         },
-        "dl":{
-            "Catbox":"https://files.catbox.moe/y07z4z.rar"
-        },
+        "dl":["https://files.catbox.moe/y07z4z.rar"],
         "src":null
     },
 
@@ -103,10 +97,10 @@
                 "database/img/the-coffin-of-andrew-and-renee-preview01.jpg"
             ]
         },
-        "dl":{
-            "DEG Mods":"https://degmods.com/mod/naddr1qvzqqqrkcgpzph2jv2ejvdk27hn36dt57j6f69f5h0zccve3xceujq5z9jk8ym8wqp4nxvp5xqer5eryx5ervvnzxvervvekvdskvdt9xuckgve4xu6xvdrzxsukgvf4xv6xycnrx5uxxvenxvcnxd3nxd3njvpj8qerycmpvvmnydnrv4jn5wrpv5mrvwpsxgknxwp4xqkngetpxqknjd35xcknsv3cv9jnxvtp8ycxyegq5ndhc",
-            "Nexus Mods":"https://degmods.com/mod/naddr1qvzqqqrkcgpzph2jv2ejvdk27hn36dt57j6f69f5h0zccve3xceujq5z9jk8ym8wqp4nxvp5xqer5eryx5ervvnzxvervvekvdskvdt9xuckgve4xu6xvdrzxsukgvf4xv6xycnrx5uxxvenxvcnxd3nxd3njvpj8qerycmpvvmnydnrv4jn5wrpv5mrvwpsxgknxwp4xqkngetpxqknjd35xcknsv3cv9jnxvtp8ycxyegq5ndhc"
-        },
+        "dl":[
+            "https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee/archive/refs/heads/main.zip",
+            "https://files.catbox.moe/2bfy5q.rar"
+        ],
         "src":"https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee"
     },
 
@@ -166,7 +160,7 @@
                 "database/img/super-beanshley-64-demo-preview01.jpg"
             ]
         },
-        "dl":"https://gamebanana.com/mods/565869",
+        "dl":["https://gamebanana.com/dl/1354118"],
         "src":null
     },
 
