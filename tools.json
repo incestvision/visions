@@ -3,6 +3,7 @@
         "id":"tomb",
         "creator":["Basil", "https://basil.cafe"],
         "desc":"A mod loader for The Coffin of Andy and Leyley.",
+        "ver":"0.6.0-beta",
         "dl":"https://codeberg.org/basil/tomb/releases/download/v0.6.0-beta/tomb.zip",
         "src":"https://codeberg.org/basil/tomb"
     }
