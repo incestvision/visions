@@ -1,4 +1,4 @@
-<link href="database/andy-leyley.css" rel="stylesheet" type="text/css" />
+<link href="database/web/andy-leyley.css" rel="stylesheet" type="text/css" />
 
 # Visions
 

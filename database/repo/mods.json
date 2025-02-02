@@ -1,0 +1,154 @@
+{
+    "The Coffin of Nina":{
+        "id":["the-coffin-of-nina", "nina"],
+        "tomb":false,
+        "released":false,
+        "ai":false,
+        "creator":["Misana1598"],
+        "creator-link":["https://www.youtube.com/@Misana-fr2rr"],
+        "desc":"This is my hell... this is my coffin. My name... is Nicole.",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":{
+            "Trailer":"https://youtu.be/McUYvDJT0Lc"
+        },
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-nina-preview01.jpg"
+            ]
+        },
+        "dl":null,
+        "src":null
+    },
+
+    "The Coffin of Candy Scabs":{
+        "id":["the-coffin-of-candy-scabs", "candy-scabs"],
+        "tomb":false,
+        "released":true,
+        "ai":true,
+        "creator":["Day Shift Studio"],
+        "desc":"TCoAaL and Candy Scabs crossover.",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":null,
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-candy-scabs-preview01.png",
+                "database/img/the-coffin-of-candy-scabs-preview02.png",
+                "database/img/the-coffin-of-candy-scabs-preview03.png"
+            ]
+        },
+        "dl":["https://gamebanana.com/dl/1318250"],
+        "src":"https://github.com/Mr-Archive/The-Coffin-of-Candy-Scabs"
+    },
+
+    "The Coffin of No-good Noelle":{
+        "id":["the-coffin-of-no-good-noelle", "noelle"],
+        "tomb":false,
+        "released":false,
+        "ai":false,
+        "creator":["Day Shift Studio"],
+        "desc":"TCoAaL and No-good Noelle crossover.",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":null,
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-no-good-noelle-preview01.png"
+            ]
+        },
+        "dl":null,
+        "src":"https://github.com/Mr-Archive/The-Coffin-of-No-Good-Noelle"
+    },
+
+    "The Coffin of Andy and Lili":{
+        "id":["the-coffin-of-andy-and-lili", "cali"],
+        "tomb":true,
+        "released":true,
+        "ai":false,
+        "creator":["Cali"],
+        "creator-link":["https://youtube.com/@cali_fr"],
+        "desc":"It's a coffin for three now.",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":{
+            "Trailer":"https://youtu.be/_XE_AUpgp94"
+        },
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-andy-and-lili-preview01.jpg"
+            ]
+        },
+        "dl":["https://files.catbox.moe/y07z4z.rar"],
+        "src":null
+    },
+
+    "The Coffin of Andrew and Renee":{
+        "id":["the-coffin-of-andrew-and-renee", "renee"],
+        "tomb":false,
+        "released":true,
+        "ai":false,
+        "creator":["Graveyard Shift"],
+        "creator-link":["https://youtube.com/@GraveyardShift-w7"],
+        "desc":"Mother and son bonding.",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":{
+            "Trailer":"https://youtu.be/Vhm_FQbQK5A",
+            "Installation Tutorial":"https://youtu.be/uUm36WY0YWk"
+        },
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-andrew-and-renee-preview01.jpg"
+            ]
+        },
+        "dl":[
+            "https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee/archive/refs/heads/main.zip",
+            "https://files.catbox.moe/2bfy5q.rar"
+        ],
+        "src":"https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee"
+    },
+
+    "The Coffin of Richard and Renee":{
+        "id":["the-coffin-of-richard-and-renee", "richard"],
+        "tomb":false,
+        "released":false,
+        "ai":null,
+        "creator":null,
+        "creator-link":null,
+        "desc":null,
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":null,
+        "media":{
+            "previews":[
+                "database/img/the-coffin-of-richard-and-renee-preview01.jpg",
+                "database/img/the-coffin-of-richard-and-renee-preview02.jpg"
+            ]
+        },
+        "dl":null,
+        "src":null
+    },
+
+    "Mimi's Coffin":{
+        "id":["mimis-coffin", "mimi"],
+        "tomb":false,
+        "released":false,
+        "ai":null,
+        "creator":["StainedFarewell"],
+        "creator-link":["https://x.com/StainedFarewell"],
+        "desc":"Or maybe I wasn't sexy enough...",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":{
+            "In-Game Progress":"https://youtu.be/vDyICz0rdT4"
+        },
+        "media":{
+            "previews":[
+                "database/img/mimis-coffin-preview01.gif"
+            ]
+        },
+        "dl":null,
+        "src":null
+    }
+}
