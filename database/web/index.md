@@ -1,9 +1,11 @@
+<link href="andy-leyley.css" rel="stylesheet" type="text/css" />
+
 # Visions
 
-Modding platform for The Coffin of <span class="andy">Andy</span> and <span class="leyley">Leyley</span>.
+💖 [Codeberg](https://codeberg.org/peachy/visions) ☀️ [Github](https://github.com/incestvision/visions) 💔 [Website](https://incest.vision) ⚰️ [Discord](https://discord.gg/PbtS97Hdwm)
 
-[Codeberg](https://codeberg.org/peachy/visions) / [Github](https://github.com/visions-database/visions)
+Platform for hosting, distributing, and archiving information about mods, fangames, and other fanworks for The Coffin of <span class="andy">Andy</span> and <span class="leyley">Leyley</span>.
 
-⚠️ If you want a program to handle installing and updating these mods for you, use [Burial](https://luka.moe/burial)<!-- (Windows) or Visions CLI (Linux)-->.
+⚠️ Visions is primarily a host for TCAL mods, and focuses more on backend than frontend. If you want a simple GUI program to handle installing and updating TCAL mods for you, use [Burial](https://luka.moe/burial)<!-- (Windows)-->.
 
-📨 To request your mod be added to Visions Database, [email me](mailto:peachydg@proton.me).
+📨 To request your mod be added to Visions, [email here](mailto:contact@incest.vision).

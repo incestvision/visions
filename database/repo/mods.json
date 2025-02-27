@@ -150,5 +150,21 @@
         },
         "dl":null,
         "src":null
+    },
+
+    "Route C: Cremation":{
+        "id":["route-c-cremation", "route-c", "routec", "cremation"],
+        "tomb":false,
+        "released":false,
+        "ai":null,
+        "creator":["CGanimated1227"],
+        "creator-link":null,
+        "desc":"A \"healthier\" alternative to the other paths.",
+        "ver":null,
+        "genre":"Total Conversion",
+        "ext-media":null,
+        "media":null,
+        "dl":null,
+        "src":null
     }
 }
