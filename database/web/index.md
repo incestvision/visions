@@ -1,4 +1,4 @@
-<link href="andy-leyley.css" rel="stylesheet" type="text/css" />
+<link href="https://codeberg.org/api/v1/repos/peachy/visions/raw/database/web/andy-leyley.css" rel="stylesheet" type="text/css" />
 
 # Visions
 

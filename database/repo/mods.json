@@ -14,7 +14,7 @@
         },
         "media":{
             "previews":[
-                "database/img/the-coffin-of-nina-preview01.jpg"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-nina-preview01.jpg"
             ]
         },
         "dl":null,
@@ -33,9 +33,9 @@
         "ext-media":null,
         "media":{
             "previews":[
-                "database/img/the-coffin-of-candy-scabs-preview01.png",
-                "database/img/the-coffin-of-candy-scabs-preview02.png",
-                "database/img/the-coffin-of-candy-scabs-preview03.png"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-candy-scabs-preview01.png",
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-candy-scabs-preview02.png",
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-candy-scabs-preview03.png"
             ]
         },
         "dl":["https://gamebanana.com/dl/1318250"],
@@ -54,7 +54,7 @@
         "ext-media":null,
         "media":{
             "previews":[
-                "database/img/the-coffin-of-no-good-noelle-preview01.png"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-no-good-noelle-preview01.png"
             ]
         },
         "dl":null,
@@ -76,7 +76,7 @@
         },
         "media":{
             "previews":[
-                "database/img/the-coffin-of-andy-and-lili-preview01.jpg"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-andy-and-lili-preview01.jpg"
             ]
         },
         "dl":["https://files.catbox.moe/y07z4z.rar"],
@@ -99,7 +99,7 @@
         },
         "media":{
             "previews":[
-                "database/img/the-coffin-of-andrew-and-renee-preview01.jpg"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-andrew-and-renee-preview01.jpg"
             ]
         },
         "dl":[
@@ -122,8 +122,8 @@
         "ext-media":null,
         "media":{
             "previews":[
-                "database/img/the-coffin-of-richard-and-renee-preview01.jpg",
-                "database/img/the-coffin-of-richard-and-renee-preview02.jpg"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-richard-and-renee-preview01.jpg",
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/the-coffin-of-richard-and-renee-preview02.jpg"
             ]
         },
         "dl":null,
@@ -145,7 +145,7 @@
         },
         "media":{
             "previews":[
-                "database/img/mimis-coffin-preview01.gif"
+                "https://codeberg.org/api/v1/repos/peachy/visions/raw/database/img/mimis-coffin-preview01.gif"
             ]
         },
         "dl":null,

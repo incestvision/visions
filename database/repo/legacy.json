@@ -1,0 +1,108 @@
+{
+    "Gun-Toting Cats":{
+        "id":["gun-toting-cats", "guntotingcats", "catra"],
+        "creator":"Kit9 Studio",
+        "creator-link":["https://kit9studio.com"],
+        "desc":null,
+        "genre":null,
+        "ext-media":null,
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    },
+
+    "All I Wanted Was a Bouncy Ball":{
+        "id":["all-i-wanted-was-a-bouncy-ball", "alliwantedwasabouncyball", "bouncyball"],
+        "creator":"Kit9 Studio",
+        "creator-link":["https://kit9studio.com"],
+        "desc":null,
+        "genre":null,
+        "ext-media":null,
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    },
+
+    "Jack-in-a-Castle":{
+        "id":["jack-in-a-castle", "jackinacastle", "jitc"],
+        "creator":"Nemlei",
+        "creator-link":["https://nemlei.itch.io"],
+        "desc":"Search for the missing king in a warped castle. Kiss dudes maybe.",
+        "genre":"Visual Novel",
+        "ext-media":{
+            "Trailer":"https://youtu.be/tYGC9LZT_04?si=FDMi-LbbKJ4POw-S"
+        },
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    },
+
+    "Divilethion":{
+        "id":["divilethion", "dt"],
+        "creator":"Nemlei",
+        "creator-link":["https://nemlei.itch.io"],
+        "desc":"Human sacrifices and jolly good fun, despite what your brother says!",
+        "genre":"Visual Novel",
+        "ext-media":null,
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    },
+
+    "Better Half":{
+        "id":["better-half", "betterhalf", "bh"],
+        "creator":"Nemlei",
+        "creator-link":["https://nemlei.itch.io"],
+        "desc":"Some loser meets himself.",
+        "genre":"Visual Novel",
+        "ext-media":null,
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    },
+
+    "Candy Scabs":{
+        "id":["candy-scabs", "candyscabs", "cs"],
+        "creator":"Nemlei",
+        "creator-link":["https://nemlei.itch.io"],
+        "desc":"Cute and horrible. Get candy or get killed.",
+        "genre":"Visual Novel",
+        "ext-media":null,
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    },
+
+    "No-good Noelle":{
+        "id":["no-good-noelle", "nogoodnoelle", "ngn"],
+        "creator":"Nemlei",
+        "creator-link":["https://nemlei.itch.io"],
+        "desc":"Ruin a friendship today!",
+        "genre":"Visual Novel",
+        "ext-media":null,
+        "media":{
+            "previews":[
+
+            ]
+        },
+        "dl":""
+    }
+}
